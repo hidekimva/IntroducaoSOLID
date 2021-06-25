@@ -24,7 +24,7 @@ Execute o terminal no repositório como seguinte comando
 ```
 - Isso vai instalar as dependencias do projeto.
 
-Depois basta executar o camando
+Depois basta executar o comando
 ```bash 
   yarn dev
 ```
