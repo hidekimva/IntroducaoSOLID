@@ -9,26 +9,31 @@ Projeto feito para fixação dos conhecimentos de SOLID.
 **Server:** Node, TypeScript, Express
 
   
-## Instalação 
+  ## Executar localmente
 
-Clone o projeto usando o comando
+Clone o projeto
 
-```bash 
-  git clone https://github.com/hidekimva/IntroducaoSOLID
+```bash
+  git clone https://github.com/hidekimva/IntroducaoSOLID.git
 ```
 
-Execute o terminal no repositório como seguinte comando
+Vá para o diretório do projeto
 
-```bash 
+```bash
+  cd meu-projeco
+```
+
+Instale as dependências
+
+```bash
   yarn
 ```
-- Isso vai instalar as dependencias do projeto.
 
-Depois basta executar o comando
-```bash 
+Inicie o servidor
+
+```bash
   yarn dev
 ```
-- Isso vai executar projeto.
     
 ## Rodar testes
 
@@ -38,6 +43,13 @@ Para executar testes, execute o seguinte comando
   yarn test
 ```
 
+## Documentação
+
+Para acessar a documentação deve ser usado o link 
+- http://localhost:3333/api-docs
+
+Depois que o servidor estiver rodando.
+  
   
 ## Autor
 
