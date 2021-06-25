@@ -28,7 +28,7 @@ Depois basta executar o camando
 ```bash 
   yarn dev
 ```
-- Isso vai rodar o executar projeto.
+- Isso vai executar projeto.
     
 ## Rodar testes
 
